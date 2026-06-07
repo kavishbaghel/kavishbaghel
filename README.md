@@ -40,6 +40,6 @@ while continuously learning and adapting to emerging technologies.
 
 ## Connect With Me
 
-[![](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kavishbaghel.com/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavishbaghel/)
-[![](https://img.shields.io/badge/X%2fTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kavishbaghel)
+<a href="https://kavishbaghel.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/kavishbaghel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/kavishbaghel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X%2fTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
