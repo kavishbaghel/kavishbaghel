@@ -1,21 +1,6 @@
 ## Hello 👋, I'm Kavish
 
-<!--
-**kavishbaghel/kavishbaghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a seasoned engineer with 7+ years of experience in building scalable, secure, and reliable cloud-native solutions across AWS, GCP, and Azure environments. My expertise lies in DevOps, Platform Engineering, Infrastructure Automation, Kubernetes, Terraform, CI/CD pipelines, and Cloud Security.
+I am a seasoned engineer with 8 years of experience in building scalable, secure, and reliable cloud-native solutions across AWS, GCP, and Azure environments. My expertise lies in DevOps, Platform Engineering, Infrastructure Automation, Kubernetes, Terraform, CI/CD pipelines, and Cloud Security.
 
 I enjoy designing resilient platforms, automating complex workflows, and enabling engineering teams to ship faster with confidence. Over the years, I have worked extensively on containerized applications, infrastructure provisioning, monitoring systems, and production-grade cloud architectures.
 
@@ -40,6 +25,6 @@ while continuously learning and adapting to emerging technologies.
 
 ## Connect With Me
 
-<a href="https://kavishbaghel.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://kavishbaghel.dev/about" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/kavishbaghel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/kavishbaghel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X%2fTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
